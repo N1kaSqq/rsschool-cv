@@ -3,9 +3,11 @@
 +375(29)8408010</br>
 NBogdanov17@yandex.by  
 VK [link](https://vk.com/n1kasvk) </br>
+@N1kaSqq
 
 ## Summary:
-My goal is to become a good IT specialist.
+My goal is to become a good IT specialist.  
+I chose to start with front-end development
 
 ## Skills:
   * HTML5/CSS3  
@@ -34,4 +36,4 @@ for(let i =0;i<Array.length;i++){
 ## Education:
 [Belarusian State University of Informatics and Radioelectronics](https://www.bsuir.by/)  
 ## English:
-Intermediate(B2)
+Intermediate+
