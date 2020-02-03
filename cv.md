@@ -1,6 +1,6 @@
 # Nikita Bogdanov
 ## Contact info:  
-+375(29)8408010</br>
++375(29)8408010 </br>
 NBogdanov17@yandex.by  
 VK [link](https://vk.com/n1kasvk) </br>
 @N1kaSqq
