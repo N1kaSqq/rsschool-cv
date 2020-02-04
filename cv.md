@@ -1,9 +1,9 @@
 # Nikita Bogdanov
 ## Contact info:  
-+375(29)8408010 </br>
++375(29)8408010  
 NBogdanov17@yandex.by  
-VK [link](https://vk.com/n1kasvk) </br>
-@N1kaSqq
+VK [link](https://vk.com/n1kasvk)  
+@N1kaSqq  
 
 ## Summary:
 My goal is to become a good IT specialist.  
